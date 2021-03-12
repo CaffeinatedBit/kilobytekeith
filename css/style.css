@@ -124,4 +124,8 @@ canvas {
     right: 0;
     bottom: 0;
   }
+  
+  .section {
+    background: #23004D;
+  }
 }
