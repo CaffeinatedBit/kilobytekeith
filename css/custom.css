@@ -1,0 +1,36 @@
+body {
+    background-image: url("/images/cubes.png");
+  }
+  
+  .headerimg {
+      border-radius: 50%;
+    }
+  
+    /* Default (light) theme */
+    /* :root {
+      --bg: #fff;
+      --accent-bg: #f5f7ff;
+      --text: #212121;
+      --text-light: #585858;
+      --border: #898EA4;
+      --accent: #0077d9;
+      --code: #d81b60;
+      --preformatted: #444;
+      --marked: #ffdd33;
+      --disabled: #efefef;
+    } */
+  
+  /* Dark theme */
+  /* @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --bg: #212121;
+      --accent-bg: #2b2b2b;
+      --text: #dcdcdc;
+      --text-light: #ababab;
+      --accent: #00b3ff;
+      --code: #005eff;
+      --preformatted: #ccc;
+      --disabled: #111;
+    }
+  } */
